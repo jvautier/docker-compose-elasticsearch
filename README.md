@@ -1,6 +1,6 @@
 # docker-compose elasticsearch oss
 
-Development stack with elasticsearch oss and kibana oss
+Development stack with [elasticsearch](https://www.elastic.co/) oss and kibana oss
 
 ## Requirements
 
