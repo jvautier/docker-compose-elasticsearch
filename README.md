@@ -1,6 +1,6 @@
 # docker-compose elasticsearch oss
 
-Development stack with [elasticsearch](https://www.elastic.co/) oss and kibana oss
+Docker-compose stack with [elasticsearch](https://www.elastic.co/) oss and kibana oss
 
 ## Requirements
 
@@ -21,4 +21,3 @@ docker-compose logs -f
 ```sh
 docker-compose logs -f elasticsearch
 ```
-
