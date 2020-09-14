@@ -1,0 +1,9 @@
+---
+fullname: jvautier/docker-compose-elasticsearch
+description: Docker-compose development stack with elasticsearch.
+tags:
+  - development
+  - docker
+  - docker-compose
+  - elasticsearch
+github: {}
